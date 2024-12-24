@@ -1,0 +1,38 @@
+Project Requirements
+
+Languages & Frameworks
+Python: For data analysis, preprocessing, and machine learning.
+
+Python LibrariesData Manipulation and Analysis:
+pandas
+NumPy
+Data Visualization:
+matplotlib
+seaborn
+
+Machine Learning:
+scikit-learn
+Clustering and Dimensionality Reduction:
+scipy (for hierarchical clustering)
+sklearn.decomposition (for PCA)
+
+Utilities:
+os
+logging
+
+Development Tools
+Jupyter Notebook: For interactive data exploration and analysis.
+Git/GitHub: For version control and collaboration.
+
+Dataset
+Kaggle dataset (provided in Readme section).
+
+Software Environment
+IDE: Jupyter Notebook, VS Code, or PyCharm.
+
+Version Control: Git.
+Environment Management: Anaconda or virtualenv (recommended).
+
+Hardware Requirements
+Minimum 8GB RAM for smooth data processing.
+Multi-core processor for faster computations.
