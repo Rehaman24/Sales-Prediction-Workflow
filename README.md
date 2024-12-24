@@ -73,6 +73,10 @@ Generated visualizations to support analysis:
 3. **Model RMSE Comparison**: Compares model performance.
 
 All visualizations are saved in the `Final-Class-Figures/` directory.
+![Image Description](output_figures/Feature Importance Analysis.png)
+![Image Description](output_figures/Model RMSE Comparision.png)
+![Image Description](output_figures/pca_visualization.png)
+![Image Description](output_figures/corelation matrix.png)
 
 ---
 
